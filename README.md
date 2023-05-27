@@ -4,7 +4,7 @@
 
 ### Welcome to the **Python** version of the Build a Modern Application on AWS Workshop!
 
-**AWS Experience: Beginner**
+**AWS Experience: Beginners**
 
 **Time to Complete: 3-4 hours**
 
